@@ -4,7 +4,7 @@
 <H2> My name is Himanshu Singh Rajput From <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png "India"" width="17" /> <b> Morena, India</b>. </h2>
 
 <h3>
-I'm a self-taught passionate Software Developer from India 🇮🇳</h3>
+I'm a self-taught passionate Software Developer</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </div>
