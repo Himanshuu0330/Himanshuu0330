@@ -1,7 +1,7 @@
 ---
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<H2> My name is Mauro From <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b> Morena, India</b>. </h2>
+<H2> My name is Himanshu Singh Rajput From <img src="https://www.flaticon.com/free-icon/india_206606?term=india+flag&page=1&position=1&origin=search&related_id=206606" width="17" /> <b> Morena, India</b>. </h2>
 
 <h3>
 I'm a self-taught passionate Software Developer from India 🇮🇳</h3>
