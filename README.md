@@ -1,8 +1,8 @@
 ---
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</n>
 
-<H2> My name is Himanshu Singh Rajput From <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png "India"" width="17" /> <b> Morena, India</b>. </h2>
-
+ My name is Himanshu Singh Rajput From <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png "India"" width="17" /> <b> Morena, India</b>.
+</h1>
 <h3>
 I'm a self-taught passionate Software Developer</h3>
 <div align="center">
