@@ -1,9 +1,12 @@
 ---
-<h1  align="center" >
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+<p> My name is Mauro From <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b> Morena, India</b>. </p>
+<h1>
 Hey! I'm Himanshu Singh Rajput,<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> Nice to see you.
 </h1>
 
-<h3 align="center">
+<h3>
 I'm a self-taught passionate Software Developer from India 🇮🇳</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
