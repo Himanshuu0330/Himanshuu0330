@@ -16,6 +16,7 @@ I'm a self-taught passionate Software Developer</h3>
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ❤️ I love writing typescript, javascript and building fun experiments on type-level
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
