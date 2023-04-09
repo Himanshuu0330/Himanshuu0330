@@ -19,7 +19,7 @@ I'm a self-taught passionate Software Developer from India 🇮🇳</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Himanshu-Singh-Rajput-88a052203" target="https://www.linkedin.com/in/himanshu-singh-844838251/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himanshu-Singh-Rajput-88a052203" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshu-singh-844838251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-naroliya-88a052203" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the.secret_believer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_addie_____" height="30" width="40" /></a>
 </p>
 
