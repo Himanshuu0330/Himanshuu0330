@@ -5,7 +5,7 @@ My name is Himanshu Singh Rajput From <img src="https://raw.githubusercontent.co
 <h3>
 I'm a self-taught passionate Software Developer</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
 
 
