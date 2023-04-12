@@ -3,9 +3,8 @@
 My name is Himanshu Singh Rajput From <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png "India"" width="17" /> <b> Morena, India</b>.
 </h1>
 <h3>
-I'm a self-taught passionate Software Developer</h3>
-<div align="center">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+I'm a self-taught passionate Software Developer</h3>
 </div>
 
 
