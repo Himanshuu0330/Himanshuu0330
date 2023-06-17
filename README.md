@@ -50,10 +50,7 @@
 </p>
 	
 
-## 📈 Activity Graph
-<p align="center">
-	<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Himanshuu0330&bg_color=000000&color=fbff00&line=05e0f0&point=ffffff&area=true&hide_border=true" />
-</p>
+
 
 ---
 <p align=center>
