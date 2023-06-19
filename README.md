@@ -3,6 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p style="font-size: 15px;">I'm a self-taught passionate Software Developer</p>
 
+
 ## 💫 About Me
 - 😄 Pronouns: He/Him
 - 💬 Ask me about any tech-related stuff.
